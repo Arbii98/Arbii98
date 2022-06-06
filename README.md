@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbi !</h1>
 <h3 align="center">Always taking the challenge..</h3>
 
-<center><img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></center>
+<center><img style="display: block;  margin-left: auto;  margin-right: auto; width: 50%;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></center>
 
 - 🌱 I’m currently learning **NestJS**
 
