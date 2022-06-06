@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arbi !</h1>
 <h3 align="center">Always taking the challenge..</h3>
 
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=full-stack+developer;night+owl;java+for+life">
+</p>
 - 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **Angular, Java, SpringBoot, Symfony**
