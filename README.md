@@ -17,7 +17,7 @@
 </p>
 
 <!-- Technos -->
-<h1 align="center">Languages and Tools 🛠</h1>
+<h1 align="center">Technical stack 🛠</h1>
 
 <p align="center">
 
